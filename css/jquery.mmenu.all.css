@@ -259,7 +259,7 @@ html.mm-opened .mm-page {
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.5); }
 
 .mm-ismenu {
-  background: #A68737; }
+  background: #6F6F6F; }
 
 .mm-menu {
   color: rgba(255, 255, 255, 10); }
@@ -1181,7 +1181,7 @@ html.mm-opened.mm-light .mm-page {
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); }
 
 .mm-ismenu.mm-light {
-  background: #A68737; }
+  background: #6F6F6F; }
 
 .mm-menu.mm-light {
   color: rgba(255, 255, 255, 0.6); }

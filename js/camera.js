@@ -30,7 +30,7 @@ sourceType: navigator.camera.PictureSourceType.PHOTOLIBRARY
    
         var ft = new FileTransfer();
         navigator.notification.activityStart("RococoPhoto", "Uploading...");
-        ft.upload(imageURI, "http://m.gallerybear.com/upload.php", win, fail, options);
+        ft.upload(imageURI, "http://m.photomeeting.net/upload.php", win, fail, options);
     }
 
     function win(r) {
