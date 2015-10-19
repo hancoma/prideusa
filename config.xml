@@ -10,7 +10,7 @@
     <content src="index.html" />
     
     <preference name="permissions" value="none" />
-    <preference name="phonegap-version" value="4.0.0" />
+    <preference name="phonegap-version" value="3.7.0" />
     <preference name="orientation" value="default" />
     <preference name="target-device" value="universal" />
     <preference name="fullscreen" value="false" />
@@ -45,7 +45,7 @@
     <gap:plugin name="org.apache.cordova.vibration" />
      <gap:plugin name="com.millerjames01.sqlite-plugin" version="1.0.1" />
     <gap:plugin name="com.sharinglabs.cordova.plugin.cache" version="1.0.0" />
-  <gap:plugin name="com.admob.google" version="4.0.8" />
+  
     <gap:plugin name="com.phonegap.plugins.pushplugin" version="2.4.0" />
     
     <icon src="icon.png" />
